@@ -1,0 +1,37 @@
+/* Selectors in CSS */
+/* id selector  */
+/* #box{
+    color: orangered;
+}
+#container{
+    color: brown;
+}
+#container1{
+    color: blueviolet;
+} */
+
+/* Class Selector */
+/* .iub{
+    color: blue;
+}
+.box{
+    color: blueviolet;
+} */
+/* Tag Selector */
+/* h1{
+    color: whitesmoke;
+}
+div{
+    color: yellow;
+}
+span{
+    color: pink;
+} */
+
+/* Attribute Selector */
+/* input[type = "text"] {
+    color: blueviolet;
+}
+span[id = "box"] {
+    color: blue;
+} */
