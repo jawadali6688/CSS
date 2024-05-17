@@ -1,0 +1,45 @@
+button{
+    background-color: blueviolet;
+    cursor: pointer;
+    /* cursor: not-allowed; */
+    /* cursor: all-scroll; */
+    /* cursor:crosshair; */
+    /* cursor: default; */
+    /* cursor: help; */
+    /* cursor: cell; */
+    /* cursor: wait; */
+    /* cursor: cell; */
+    /* border: 2px; */
+    /* border-style: dotted; */
+    /* border-style: inset; */
+    /* border-style: inherit; */
+    /* border-color: red; */
+    /* border: 2px double pink; */
+    border-top: 2px solid pink;
+    border-left: 2px solid red;
+    border-right: 2px solid yellow;
+    border-bottom: 2px solid orange;
+    color: white;
+    border: none;   
+    /* border-radius: 12px; */
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    padding: 2px 15px;
+
+}
+
+button:hover{
+    background-color: rgb(103, 25, 177);
+    cursor: pointer;
+}
+
+.container{
+    background-color: blueviolet;
+    color: white;
+    /* margin-top: 120px; */
+    /* border: 20px solid red; */
+    padding: 50px 0px;
+    font-size: 50px
+}
